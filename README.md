@@ -81,7 +81,7 @@ Apasionado por enseñar, aprender y compartir conocimientos sobre programación,
 ✔ Mejora de la eficiencia en la manipulación y exploración de datasets.
 
 
-💬 Reflexión personal
+##💬 Reflexión personal
 
 Este curso me ha permitido reforzar mis fundamentos en análisis de datos con Python, mejorando mi capacidad para procesar, visualizar y comprender información estructurada.
 La combinación de teoría y práctica fue clave para afianzar conceptos como indexación, limpieza de datos y creación de gráficos.
